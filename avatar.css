@@ -1,0 +1,59 @@
+.User-list {
+  list-style: none;
+}
+
+.Avatar {
+  text-align: center;  
+  font-family: sans-serif, serif;
+  color: #141414;
+}
+
+.Avatar img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.Avatar h4 {
+  text-transform: capitalize;
+  color: #363636;
+  font-size: 150%;
+  font-family: sans-serif, serif;
+}
+
+body {
+  margin: 0px;
+  align-self: auto;
+  background-attachment: fixed;
+  background-size: cover, 100%;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: black;
+  font-family: sans-serif, serif;
+  text-align: center;
+  font-size: 250%;
+  margin-top: 0px;
+  padding-top: 50px;
+}
+
+#entry {
+  float: left;
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+input {
+  padding-top:5px;
+  padding-bottom:5px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+}
+
+p {
+  padding-bottom: 5%;
+}
